@@ -24,14 +24,6 @@ _Example: _`mergeFiles('mytextFile.txt', 'yourTextFile.txt')`_
 
 ---
 
-### 4. Combine two files
-
-Create a function that gets the content of given text files and creates a new file with all the content.
-
-_Example: _`mergeFiles('mytextFile.txt', 'yourTextFile.txt')`_  
-
----
-
 ### 4. Using external module
 
 Install and import `moment.js`(a js libary) via NPM and create a function that prints the day name of X(given number as an argument) days later on the console by using moment.js 
